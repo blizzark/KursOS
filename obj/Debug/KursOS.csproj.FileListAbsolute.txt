@@ -1,0 +1,10 @@
+C:\Project\KursOS\KursOS\bin\Debug\KursOS.exe.config
+C:\Project\KursOS\KursOS\bin\Debug\KursOS.exe
+C:\Project\KursOS\KursOS\bin\Debug\KursOS.pdb
+C:\Project\KursOS\KursOS\obj\Debug\KursOS.Form1.resources
+C:\Project\KursOS\KursOS\obj\Debug\KursOS.Properties.Resources.resources
+C:\Project\KursOS\KursOS\obj\Debug\KursOS.csproj.GenerateResource.cache
+C:\Project\KursOS\KursOS\obj\Debug\KursOS.csproj.CoreCompileInputs.cache
+C:\Project\KursOS\KursOS\obj\Debug\KursOS.exe
+C:\Project\KursOS\KursOS\obj\Debug\KursOS.pdb
+C:\Project\KursOS\KursOS\obj\Debug\KursOS.csprojAssemblyReference.cache
